@@ -1,2 +1,2 @@
-# pProyecto Literatura
+# Proyecto Literatura
 - Autor: Itzel Aguilera Hidalgo
